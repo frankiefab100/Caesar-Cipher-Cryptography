@@ -1,0 +1,2 @@
+# Caesar-Cipher-Cryptography
+Caesar cipher is a type of substitution cipher in which each letter in the plaintext is shifted to a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on. While a shift of 2, A would be C, B would become D, and so on.  How it works:  The program receives two Input arguments: - A String of letters as Text. - An Integer between 0-25 denoting the required shift. And returns the encrypted message.
